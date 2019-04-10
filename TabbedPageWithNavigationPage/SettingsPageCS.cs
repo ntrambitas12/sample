@@ -11,7 +11,7 @@ namespace TabbedPageWithNavigationPage
 			Content = new StackLayout { 
 				Children = {
 					new Label {
-						Text = "Settings go here",
+						Text = "Add bio",
 						HorizontalOptions = LayoutOptions.Center,
 						VerticalOptions = LayoutOptions.CenterAndExpand
 					}
